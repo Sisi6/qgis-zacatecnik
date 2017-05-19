@@ -26,7 +26,7 @@
    single: GIS
    single: geografický informační systém
 
-`QGIS <http://qgis.org/en/site/>`_  je Open Source *geografický informační systém*
+`QGIS <http://qgis.org/en/site/>`_  jeX Open Source *geografický informační systém*
 (:wikipedia:`GIS`) publikovaný pod všeobecnou licencí GNU GPL.
 Projekt QGIS vznikl v roce 2002, verze s označením 1.0 vyšla později v roce 2009.
 Mezi hlavní výhody patří zejména rychlost vývoje a rozšiřování jeho funkcionality.
